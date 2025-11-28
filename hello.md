@@ -1,4 +1,4 @@
-# 📌 Stock Analytics API – Clickable Example Endpoints
+# 📌 Stock Analytics API
 
 ### **1. Import Stock Data**
 **Link:**  
