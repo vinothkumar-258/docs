@@ -1,4 +1,4 @@
-# Stock Analytics API – Single File Documentation
+# Stock Analytics API
 
 _Last updated: 2025-11-28 05:15:56_  
 
